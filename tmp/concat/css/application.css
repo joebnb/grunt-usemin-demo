@@ -1,0 +1,20 @@
+html{
+	color: #F00;
+}
+html{
+	font-size: 10px;
+}
+html{
+	background-color: #500;
+}
+p{
+	font-size: 20px;
+}
+html{
+	font-weight: bold;
+}
+.bower{
+	width: 222px;
+	height: 222px;
+	background-image: url('../image/bower.png');
+}

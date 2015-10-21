@@ -1,0 +1,31 @@
+(function(){
+	document.writeln('<pre>')
+	document.writeln('mvvmframework.js')
+})();
+(function(){
+	document.writeln('controller.js')
+})();
+(function(){
+	document.writeln('service.js')
+})();
+(function(){
+	document.writeln('router.js')
+})();
+(function(){
+	document.writeln('config.js')
+})();
+(function(){
+	document.writeln('factory.js')
+})();
+(function(){
+	document.writeln('dependencies.js')
+})();
+(function(){
+	document.writeln('lib.js')
+})();
+(function(){
+	document.writeln('util.js')
+	document.writeln('independent.js')
+	document.writeln('../independent/independent.js')
+	document.writeln('../image/bower.png')	
+})();
